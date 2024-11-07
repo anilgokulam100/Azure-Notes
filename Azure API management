@@ -1,0 +1,12 @@
+Azure API Center to build a complete inventory of APIs in the organization - regardless of their type, lifecycle stage, or deployment location - for API discovery, reuse, and governance
+Copilot in Azure to help author API Management policies or explain already configured policies
+Azure Key Vault for secure safekeeping and management of client certificates and secrets
+Azure Monitor for logging, reporting, and alerting on management operations, systems events, and API requests
+Application Insights for live metrics, end-to-end tracing, and troubleshooting
+Virtual networks, private endpoints, Application Gateway, and Azure Front Door for network-level protection
+Azure Defender for APIs and Azure DDoS Protection for runtime protection against malicious attacks
+Microsoft Entra ID for developer authentication and request authorization
+Event Hubs for streaming events
+Several Azure compute offerings commonly used to build and host APIs on Azure, including Functions, Logic Apps, Web Apps, Service Fabric, and others including Azure OpenAI service.
+
+https://learn.microsoft.com/en-us/azure/api-management/api-management-key-concepts
